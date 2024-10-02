@@ -31,4 +31,5 @@ Freezed: For generate sealed classes
 ### Challenges and Future Improvements
 
 Time: Unable to finish implementation of cache local data base.
+
 Testing: Achieving comprehensive test coverage is ongoing. Future work includes adding more widget and integration tests to ensure app stability.
